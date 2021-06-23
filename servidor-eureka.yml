@@ -1,2 +1,6 @@
-server:
-  port: 8761
+servidor :
+  puerto : 8761
+eureka :
+  cliente :
+    registrarse-con-eureka : falso
+    buscar-registro : falso
